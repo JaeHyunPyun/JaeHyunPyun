@@ -16,24 +16,24 @@
       <th>Position</th>
     </tr>
     <tr>
-      <td>2025.04.01 ~ Present</td>
+      <td>2025.04. - Present</td>
       <td>Generative AI-based Practical Web Service Developer Training Program </br> (Organized by Korea Software Property-Right Council)</td>
       <td>Affiliated Trainee</td>
     </tr>
     <tr>
-      <td>2024.10.11 ~ 2025.03.14</td>
+      <td>2024.10. - 2025.03.</td>
       <td> Dev Course: Back-end Engineering </br>
       (Organized by Programmers)</td>
       <td>Affiliated Trainee</td>
     </tr>
     <tr>
-      <td>2022.06.27 ~ 2024.03.31</td>
+      <td>2022.06. - 2024.03.</td>
       <td>NH Investment&Securities </br> 
       (Investment Banking  Division)</td>
       <td>Associate</td>
     </tr>
     <tr>
-      <td>2014.03. ~ 2022.08.</td>
+      <td>2014.03. - 2022.08.</td>
       <td>Seoul National University </br> 
       (B.A in Geography & Economics)</td>
       <td>Bachelor's Degree</td>
