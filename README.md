@@ -50,12 +50,12 @@
       <th>Link</th>
     </tr>
     <tr>
-      <td>2025.02.10 ~ 2025.03.12</td>
+      <td>2025.02.10 - 2025.03.12</td>
       <td>Web Backend Development</td>
       <td><a href="https://github.com/JaeHyunPyun/web2-3-pawever" target="_blank">[PAWEVER] 유기동물 연결 통합 플랫폼</a></td>
     </tr>
     <tr>
-      <td>2024.12.10 ~ 2025.01.06</td>
+      <td>2024.12.10 - 2025.01.06</td>
       <td>Web Backend Development</td>
       <td><a href="https://github.com/JaeHyunPyun/nbe2-3-2-tenthousandcocktails" target="_blank">[만개의 칵테일] 칵테일 검색 및 추천 서비스</a></td>
     </tr>
