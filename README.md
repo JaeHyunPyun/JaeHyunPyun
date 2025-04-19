@@ -67,6 +67,9 @@
 
 [![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaeHyunPyun&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyunjaehyun)](https://solved.ac/pyunjaehyun)
+
   <!-- Tech Stacks Section -->
   <h2>✨ Skills ✨</h2>
   <div style="margin: 0 auto; text-align: center;">
